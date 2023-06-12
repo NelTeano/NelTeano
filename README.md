@@ -1,4 +1,7 @@
+
+<h1>:wave: About Me</h1>
 <div id="header" align="center">
+  
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e475ighlbmrbedg6y6ktacqw8l1cstbwngti6sx8w8b&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
@@ -29,6 +32,11 @@
   
 ![NelTeano GitHub stats](https://github-readme-stats.vercel.app/api?username=NelTeano&theme=dark&show_icons=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelTeano&layout=compact)
+
+</div>
+
+<div align="center">
+  
 
 </div>
 
