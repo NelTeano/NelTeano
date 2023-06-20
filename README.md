@@ -1,3 +1,5 @@
+![](Bottom_up.svg)
+
 
 <h1>:wave: About Me</h1>
 <div id="header" align="center">
@@ -29,8 +31,7 @@
 
 <br></br>
 <div align="center" >
-  
-![NelTeano GitHub stats](https://github-readme-stats.vercel.app/api?username=NelTeano&theme=dark&show_icons=true)
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelTeano&layout=compact)
 
 </div>
