@@ -5,7 +5,10 @@
 
 <div id="header" align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D470DC&center=true&vCenter=true&width=435&lines=I+am+Jonel+Tea%C3%B1o+From+Philippines;Studied+BS+Computer+Science;Web-Developer;Front-end+Developer" alt="Typing SVG" /></a><br>
-  <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e475ighlbmrbedg6y6ktacqw8l1cstbwngti6sx8w8b&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
+  
+  <img  alt="coding" width="400"     src="https://camo.githubusercontent.com/48085222d896c4ab194690cf5820d6288d25e8a1ad22b33b715fdfdbae28e84c/68747470733a2f2f6c61766b7573686b756d61722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30312f70726f66657373696f6e616c2d776f726470726573732d646576656c6f7065722e676966"
+    >
+
 </div>
 
 <div id="badges" align="center">
