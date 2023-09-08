@@ -36,10 +36,8 @@
 ![NelTeano github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NelTeano&theme=radical&layout=compact)
 </div>
 
-<div align="center">
-  
 
-</div>
+![](https://komarev.com/ghpvc/?username=NelTeano&color=lightgrey) 
 
 ![](grid-snake.svg)
 ![](Bottom_down.svg)
