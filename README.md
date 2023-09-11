@@ -32,12 +32,20 @@
 <br></br>
 <div align="center" >
 
+
+  
+![NelTeano github stats](https://komarev.com/ghpvc/?username=NelTeano&color=lightgrey) 
+</div>
+<div align="center" >
+
  
 ![NelTeano github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NelTeano&theme=radical&layout=compact)
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=NelTeano&color=lightgrey) 
+
+
+
 
 ![](grid-snake.svg)
 ![](Bottom_down.svg)
