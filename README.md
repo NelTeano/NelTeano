@@ -78,6 +78,7 @@
 
 
 
+<!-- ![](userSnakeGIF.svg) -->
 
 ![](grid-snake.svg)
 ![](Bottom_down.svg)
