@@ -30,16 +30,16 @@
 <div align="center><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
 
 <br></br>
-<div align="center" >
 
-
+<div align=center>
+<h3 align="left">Github Statistics:</h3>
   
-![NelTeano github stats](https://komarev.com/ghpvc/?username=NelTeano&color=lightgrey) 
-</div>
-<div align="center" >
+![NelTeano's Stats](https://github-readme-stats.vercel.app/api?username=NelTeano&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![NelTeano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NelTeano&theme=vue-dark&hide_border=true)
 
- 
-![NelTeano github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NelTeano&theme=radical&layout=compact)
+![NelTeano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NelTeano&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  
+<img src="https://github-profile-trophy.vercel.app/?username=NelTeano&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
 </div>
 
 
@@ -75,7 +75,12 @@
         </tr>
     </table>
 </p>
+<div align="center" >
 
+
+  
+![NelTeano github stats](https://komarev.com/ghpvc/?username=NelTeano&color=lightgrey) 
+</div>
 
 
 <!-- ![](userSnakeGIF.svg) -->
