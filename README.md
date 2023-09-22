@@ -1,7 +1,7 @@
 ![](Bottom_up.svg)
 
 
-<h1>:wave: About Me</h1>
+<h1>:man: About Myself </h1>
 
 <div id="header" align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D470DC&center=true&vCenter=true&width=435&lines=I+am+Jonel+Tea%C3%B1o+From+Philippines;Studied+BS+Computer+Science;Web-Developer;Front-end+Developer" alt="Typing SVG" /></a><br>
@@ -21,7 +21,7 @@
   <a href="https://twitter.com/Teao291">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <h3><br>Hi, I'm Teaño. Student at Cavite State University, Aspiring Full Stack Web-Developer passionate creating Websites and explore about Technology</h3>
+  <h3><br>Hello :wave:, I'm Teaño, a dedicated student at Cavite State University with a strong passion for creating web applications and exploring cutting-edge technologies. I aspire to become a proficient Full Stack Web Developer, driven by a commitment to delivering high-quality websites and applications. </h3>
 </div>
   
 ![](header_.png)
