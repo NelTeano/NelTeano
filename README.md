@@ -137,7 +137,17 @@
 
 <br></br>
 
-
+## 📊 Metrics
+<table>
+	<tr>
+		<td colspan="4"><a href = "https://NelTeano.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=NelTeano&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=fff" alt="NelTeano" /></a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="4"><a href="https://NelTeano.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=NelTeano&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" alt="NelTeano" /></a>
+		</td>
+	</tr>
+</table>
 
 <div align=center>
   
