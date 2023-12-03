@@ -26,7 +26,7 @@
 ![](header_.png)
 
 
-## 💫 My🌟BEST🌟 SKILLS
+## Tech Stack
 <p align="center">
 <table align="center">
   <tr>
