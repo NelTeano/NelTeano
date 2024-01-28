@@ -26,7 +26,19 @@
 ![](header_.png)
 
 
-## Tech Stack
+## 👨‍💻 My Prefer Techstack
+| Backend ⚙️ |  | | Frontend ⚛️ |  |
+|----------------|------------|-|-----------------|------------|
+| Runtime        | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | | Runtime        | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| IDE            | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | | IDE            | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| Language       | ![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=Javascript&logoColor=yellow) | | Framework      | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| Cloud          | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  | | Language        | ![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=Javascript&logoColor=yellow) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+
+
+
+
+
+## Others
 <p align="center">
 <table align="center">
   <tr>
@@ -99,8 +111,8 @@
       <br>CSS
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
-      <br>Sass
+      <img src="https://skillicons.dev/icons?i=electron" alt="icon" width="55" height="55" />
+      <br>Electron
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
@@ -143,26 +155,22 @@
 		<td colspan="4"><a href = "https://NelTeano.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=NelTeano&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=fff" alt="NelTeano" /></a>
 		</td>
 	</tr>
-	<tr>
-		<td colspan="4"><a href="https://NelTeano.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=NelTeano&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" alt="NelTeano" /></a>
-		</td>
-	</tr>
 </table>
 
 <div align=center>
   
+
+
+
 ## 📊 GitHub Stats
-  
-![NelTeano's Stats](https://github-readme-stats.vercel.app/api?username=NelTeano&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-
-
+| Github Stats | Top Languages |
+| --- | --- |
+| ![NelTeano's Stats](https://github-readme-stats.vercel.app/api?username=NelTeano&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|![NelTeano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NelTeano&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  |
 ![NelTeano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NelTeano&theme=vue-dark&hide_border=true)
-
-![NelTeano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NelTeano&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<br/>
 
   ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=NelTeano&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=NelTeano&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" alt="NelTeano" /><br><h2></h2><br>
 </div>
 
 
